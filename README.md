@@ -1,2 +1,2 @@
 # Pouick-Pouick-book
-All documents in LaTex (CV, internship report, etc.)
+All documents in LaTex (CV, internship report, etc...)
